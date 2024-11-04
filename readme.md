@@ -26,64 +26,95 @@ Welcome to the **Cybersecurity Roadmap**! 🎉 This guide is designed to help yo
 
 ## 🚀 Foundation
 
-Kickstart your cybersecurity journey with a strong foundation in networking and operating systems. These are the building blocks of understanding how systems communicate and interact, which is crucial for effective security practices.
+To start learning cybersecurity, you need to build a solid understanding of networking and operating systems. These are the basic skills you need to know how computers and networks communicate and work together, which is essential for keeping systems safe and secure.
 
 - **Networking Basics** 🌐  
+  Learn how devices share data and connect through networks.  
   [Networking Basics - Coursera](https://www.coursera.org/learn/computer-networking)
-  
-- **Operating Systems** 🖥️  
-  [Operating System Fundamentals - Udemy](https://www.udemy.com/courses/search/?src=ukw&q=operating-system-fundamentals)
+
+- **Operating System Fundamentals** 🖥️  
+  Get to know how operating systems work, which is important for understanding system security.  
+  [Operating System Fundamentals - Udemy](https://www.udemy.com/course/operating-system-concepts/)
 
 - **Introduction to Cybersecurity** 🔒  
-  [Introduction to Cybersecurity - Cybrary](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity)
+  Start with the basics of cybersecurity and learn why it matters.  
+  [Introduction to Cybersecurity - Cybrary](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
 
 - **CompTIA Network+ Certification** 📜  
+  This certification covers everything you need to know about networks and helps you validate your knowledge.  
   [CompTIA Network+ - Cybrary](https://www.cybrary.it/course/comptia-network-plus/)
 
 - **Linux Essentials** 🐧  
-  [Linux Essentials - Linux Academy](https://linuxacademy.com/course/linux-essentials/)
+  Learn the basics of Linux, a popular operating system in cybersecurity.  
+  [Linux Essentials - Linux Academy (Now A Cloud Guru)](https://acloudguru.com/course/linux-essentials)
 
 - **Cisco Networking Academy** 🌍  
+  Free courses to learn networking and security skills from the experts at Cisco.  
   [Cisco Networking Academy](https://www.netacad.com/)
 
 - **TCP/IP Networking** 🌐  
+  Understand the core protocol suite that powers the internet and most networks.  
   [TCP/IP Networking - Pluralsight](https://www.pluralsight.com/courses/tcp-ip-networking)
 
 - **Security+ Certification Training** 🔐  
+  A well-rounded course for learning key security concepts and earning a certification.  
   [CompTIA Security+ - Pluralsight](https://www.pluralsight.com/courses/comptia-security-plus-sy0-601)
 
 - **Virtualization Basics** 🌪️  
+  Learn how virtual machines work, which is useful for running different systems securely.  
   [Virtualization Basics - Udacity](https://www.udacity.com/course/intro-to-virtualization--ud788)
 
 ---
 
 ## 🔎 Fundamentals
 
-Build a solid foundation in cybersecurity fundamentals and learn about the best practices and essential tools used by professionals.
+Build a solid foundation in cybersecurity and understand the best practices and tools that professionals use to protect systems and data.
+
+### Essential Topics to Explore:
 
 - **Security Fundamentals and Best Practices**  
+  Learn the key principles of cybersecurity and best practices for staying safe online.  
   [Cybersecurity Fundamentals - Simplilearn](https://www.simplilearn.com/learn-cyber-security-basics-skillup)
-  
+
 - **Basic Security Tools and Technologies** 🔧  
+  Discover the essential tools that help protect and monitor systems.  
   [Cybersecurity Tools - YouTube](https://www.youtube.com/watch?v=SW6AE76Pi50)
 
 - **Introduction to Cybersecurity Tools** 🔍  
+  Get familiar with commonly used cybersecurity tools.  
   [Getting Started with Cybersecurity Tools - Coursera](https://www.coursera.org/learn/introduction-cybersecurity-tools)
 
 - **Cybersecurity Basics for Beginners** 🌐  
+  Start with the fundamentals and basic concepts of cybersecurity.  
   [Cybersecurity Basics - edX](https://www.edx.org/course/cybersecurity-basics)
 
 - **Introduction to Ethical Hacking** 🕵️‍♂️  
+  Learn the basics of ethical hacking and how it helps in finding and fixing vulnerabilities.  
   [Ethical Hacking Basics - Cybrary](https://www.cybrary.it/course/ethical-hacking/)
 
 - **Common Security Vulnerabilities** ⚠️  
+  Understand the most common security risks that can affect applications and networks.  
   [Understanding Common Vulnerabilities - OWASP](https://owasp.org/www-project-top-ten/)
 
 - **Cybersecurity Frameworks** 📏  
+  Explore frameworks that guide organizations in building strong security practices.  
   [Cybersecurity Framework Overview - NIST](https://www.nist.gov/cyberframework)
 
 - **Incident Response Fundamentals** 🚨  
+  Learn how to respond effectively to security incidents and minimize damage.  
   [Incident Response Basics - Pluralsight](https://www.pluralsight.com/courses/incident-response-fundamentals)
+
+- **Introduction to Malware Analysis** 🦠  
+  Understand the basics of analyzing and defending against malware.  
+  [Malware Analysis - Udemy](https://www.udemy.com/course/intro-to-malware-analysis/)
+
+- **Phishing and Social Engineering Awareness** 📧  
+  Recognize and prevent social engineering attacks like phishing.  
+  [Phishing Awareness - Proofpoint](https://www.proofpoint.com/us/threat-reference/phishing)
+
+- **Data Privacy Basics** 🔒  
+  Learn how to manage and protect personal and sensitive data.  
+  [Data Privacy Fundamentals - Coursera](https://www.coursera.org/learn/data-privacy-fundamentals)
 
 ---
 
