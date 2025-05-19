@@ -2,9 +2,6 @@
 
 Welcome to the **Cybersecurity Roadmap**! 🎉 This guide is designed to help you navigate your journey into the exciting and ever-evolving field of cybersecurity, covering everything from foundational knowledge to practical experience and career tips. Let's dive in and build a secure world together! 🌐🔐
 
-[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Cybersecurity-Roadmap)](https://github.com/carlcastanas/Cybersecurity-Roadmap/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Cybersecurity-Roadmap)](https://github.com/carlcastanas/Cybersecurity-Roadmap/network/members)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Cybersecurity-Roadmap)
 
 ---
 
