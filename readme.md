@@ -513,16 +513,7 @@ Embarking on a career in cybersecurity requires more than just technical know-ho
 - **Join Cybersecurity Communities**  
   Engage with cybersecurity communities like OWASP, DefCon, or local cybersecurity meetups. Being active in these communities can provide you with insights into industry standards, new techniques, and innovations.
 
----
 
-## Connect with Me
-- **GitHub**: [carlcastanas](https://github.com/carlcastanas)
-- **LinkedIn**: [Carl Andrew Castañas](https://linkedin.com/in/carlcastanas)
-- **Email**: [cacastanas@gmail.com](mailto:cacastanas@gmail.com)
-
-## 🕒 Last Updated
-- **Timezone**: Moscow Standard Time (MSK) - UTC+3
-- **Last Updated**: [Date] (e.g., October 31, 2024)
 
 Happy learning, and stay safe online! 🎉
 
